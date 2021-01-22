@@ -31,4 +31,4 @@ a paragraph of text
 | text | text | text |
 | more | more | more |
 
-working *late* on ---Friday--- **Thursday**
+working *late* on ~~Friday~~ **Thursday**
