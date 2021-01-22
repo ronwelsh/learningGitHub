@@ -2,6 +2,7 @@
 ## sub heading
 learning GitHub
 
+1. is this anything
 - item 1
 - item 2
 - item 3
@@ -30,4 +31,4 @@ a paragraph of text
 | text | text | text |
 | more | more | more |
 
-working *late* on -- Friday -- **Thursday** 
+working *late* on ---Friday--- **Thursday**
