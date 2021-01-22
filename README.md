@@ -5,6 +5,7 @@ learning GitHub
 - item 1
 - item 2
 - item 3
+  1. how does this look
   - indented
     1. indented again
 
