@@ -13,11 +13,11 @@ learning GitHub
 
 [this is a description](http://www.github.com)
 
-this has some `variable` inline ```
+this has some `variable` inline code.
 
-```javascript
+```javascript```
 
-```html
+```html```
 
 ![alt text](http://picsum.photos/200/200)
 
